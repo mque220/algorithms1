@@ -1,1 +1,2 @@
-# level1
+# solve one algoritms each
+Day1
